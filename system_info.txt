@@ -1,0 +1,7 @@
+numpy==1.24.3
+cv2==4.9.0
+matplotlib==3.9.0
+pygame==2.5.2
+tensorboard== 2.16.2
+tensorboardX==2.6.2.2
+torch==2.3.0
